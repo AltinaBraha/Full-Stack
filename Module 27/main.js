@@ -80,4 +80,30 @@ for (var h in mbiemri) {
      }
 
 
+
+    ///////////////////
+
+    //Do while loop
+
+    
+
+///While
+    var o = 0
+
+    while(o<5){
+        o++
+        console.log(o)
+    }
+
+/////for loop
+
+for(var i = 0; i<6; i++)
+{
+    console.log("Value of i is: " + i)
+}
+
+
+
+
+
      
